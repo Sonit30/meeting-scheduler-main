@@ -16,14 +16,14 @@ const firebaseConfig = {
   // appId: "1:1050346836100:web:241d1cc206e560697372d1",
   // measurementId: "G-M6W4DQRPNE"
 
-  apiKey: "AIzaSyBXaKQqrHCa0Y6Inn7YnxPdAA1oI-lHY78",
-  databaseURL: "https://meeting-schedule-11497-default-rtdb.firebaseio.com/",
-    authDomain: "meeting-schedule-11497.firebaseapp.com",
-    projectId: "meeting-schedule-11497",
-    storageBucket: "meeting-schedule-11497.firebasestorage.app",
-    messagingSenderId: "21321449709",
-    appId: "1:21321449709:web:2c9f42074a7d0317908ce4",
-    measurementId: "G-5FX31H6LNL"
+  apiKey: "AIzaSyBD8NgmIJmBZMQZgRVYFSX8PVRKOvLPsDk",
+  databaseURL: "https://meeting-d78d1-default-rtdb.firebaseio.com/",
+  authDomain: "meeting-d78d1.firebaseapp.com",
+  projectId: "meeting-d78d1",
+  storageBucket: "meeting-d78d1.firebasestorage.app",
+  messagingSenderId: "813905051066",
+  appId: "1:813905051066:web:edb6f6ee55b7044d13f183",
+  measurementId: "G-BQMX5SG8J7"
 };
 
 // Initialize Firebase
