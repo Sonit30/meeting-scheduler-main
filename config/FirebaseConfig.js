@@ -7,15 +7,6 @@ import { getAnalytics } from "firebase/analytics";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  // apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
-  // authDomain: "meeting-schedular-7e82e.firebaseapp.com",
-  // databaseURL: "https://meeting-schedular-7e82e-default-rtdb.firebaseio.com/",
-  // projectId: "meeting-schedular-7e82e",
-  // storageBucket: "meeting-schedular-7e82e.firebasestorage.app",
-  // messagingSenderId: "1050346836100",
-  // appId: "1:1050346836100:web:241d1cc206e560697372d1",
-  // measurementId: "G-M6W4DQRPNE"
-
   apiKey: "AIzaSyBD8NgmIJmBZMQZgRVYFSX8PVRKOvLPsDk",
   databaseURL: "https://meeting-d78d1-default-rtdb.firebaseio.com/",
   authDomain: "meeting-d78d1.firebaseapp.com",
